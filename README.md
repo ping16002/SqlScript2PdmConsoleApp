@@ -1,8 +1,11 @@
 "# SqlScript2PdmConsoleApp" 
 
 
-dotnet run
+netcore下，sql建表脚本转pdm
 
+
+------------------------------------------
+dotnet run
 
 or
 
